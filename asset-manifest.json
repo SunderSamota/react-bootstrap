@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap/static/css/main.541551a6.css",
+    "main.js": "/react-bootstrap/static/js/main.6679f0ac.js",
+    "static/media/sunder.jpg": "/react-bootstrap/static/media/sunder.d38c413c93e8e8efd4cf.jpg",
+    "static/media/card6.jpg": "/react-bootstrap/static/media/card6.e957563aa1bc6e9a2eb5.jpg",
+    "static/media/card1.jpg": "/react-bootstrap/static/media/card1.1e58d5915555becdec63.jpg",
+    "static/media/card4.jpg": "/react-bootstrap/static/media/card4.4482b9f6f26c9f22dcf6.jpg",
+    "static/media/card5.jpg": "/react-bootstrap/static/media/card5.cbdd48c30ca57d3a6141.jpg",
+    "static/media/btc.svg": "/react-bootstrap/static/media/btc.23440b9e7150dd21e525d59dbe46a6f9.svg",
+    "static/media/card2.jpg": "/react-bootstrap/static/media/card2.394667903d3f84b0d1dc.jpg",
+    "static/media/card3.jfif": "/react-bootstrap/static/media/card3.c41a3ff69f8b66d51411.jfif",
+    "static/media/plant1.png": "/react-bootstrap/static/media/plant1.df14cbc02d7bdd00481b.png",
+    "index.html": "/react-bootstrap/index.html",
+    "main.541551a6.css.map": "/react-bootstrap/static/css/main.541551a6.css.map",
+    "main.6679f0ac.js.map": "/react-bootstrap/static/js/main.6679f0ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.541551a6.css",
+    "static/js/main.6679f0ac.js"
+  ]
+}
