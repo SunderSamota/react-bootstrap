@@ -15,8 +15,8 @@ const App = () => {
   return (
     <>
     <NabBar/>
-      <Routes basename = "/react-bootstrap">
-        <Route exact path='/' element= {<Home />} />
+      <Routes>
+        <Route exact path='/' index element= {<Home />} />
         <Route exact path='/service' element= {<Service />} />
         <Route exact path='/about' element= {<About />} />
         <Route exact path='/contact' element= {<Contact />} />
