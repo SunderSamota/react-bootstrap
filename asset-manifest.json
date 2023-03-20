@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-bootstrap/static/css/main.541551a6.css",
-    "main.js": "/react-bootstrap/static/js/main.8fc6e75e.js",
+    "main.js": "/react-bootstrap/static/js/main.83767f35.js",
     "static/media/sunder.jpg": "/react-bootstrap/static/media/sunder.d38c413c93e8e8efd4cf.jpg",
     "static/media/card6.jpg": "/react-bootstrap/static/media/card6.e957563aa1bc6e9a2eb5.jpg",
     "static/media/card1.jpg": "/react-bootstrap/static/media/card1.1e58d5915555becdec63.jpg",
@@ -13,10 +13,10 @@
     "static/media/plant1.png": "/react-bootstrap/static/media/plant1.df14cbc02d7bdd00481b.png",
     "index.html": "/react-bootstrap/index.html",
     "main.541551a6.css.map": "/react-bootstrap/static/css/main.541551a6.css.map",
-    "main.8fc6e75e.js.map": "/react-bootstrap/static/js/main.8fc6e75e.js.map"
+    "main.83767f35.js.map": "/react-bootstrap/static/js/main.83767f35.js.map"
   },
   "entrypoints": [
     "static/css/main.541551a6.css",
-    "static/js/main.8fc6e75e.js"
+    "static/js/main.83767f35.js"
   ]
 }
