@@ -25,6 +25,7 @@ const Contact = () => {
   const formSubmit = (e) => {
     e.preventDefault();
     setGetFormValue(data);
+    alert(`Name: ${data.fullname}, Email: ${data.email}, Phone: ${data.phone}, Message: ${data.msg}`);
   };
   return (
     <>
