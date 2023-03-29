@@ -109,26 +109,6 @@ const Contact = () => {
               </form>
             </div>
           </div>
-          <div className="table-responsive">
-          <table className="table">
-            <thead>
-              <tr>
-                <th scope="col">Name</th>
-                <th scope="col">Phone</th>
-                <th scope="col">Email</th>
-                <th scope="col">Message</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>{getFormValue.fullname}</td>
-                <td>{getFormValue.phone}</td>
-                <td>{getFormValue.email}</td>
-                <td>{getFormValue.msg}</td>
-              </tr>
-            </tbody>
-          </table>
-          </div>
         </div>
       </div>
     </>
